@@ -73,12 +73,90 @@ h1, h2, h3, h4, h5 {
 	padding: 0px 0px 20px 0px;
 }
 
+.head .great-idea{
+	display: inline-block;
+	margin: 3%;
+
+}
 nav a {
 	color:grey;
 	font-size: 12px;
 	margin: 20px;
+	text-decoration: none;
 	}
+
+
+ .slogan{
+	 display: inline-block;
+	 width: 100%;
+ }
+
+
+.slogan .slogan1{
+	font-size: 50px;
+	width: 25%;
+display: inline-block;
+margin: 10%;
+}
  
-.slogan{
-	font-size: 30px
+ 
+.slogan .slogan2{
+	width: 40%;
+	float: right;
+}
+.top-content{
+	width: 100%;	
+}
+
+.top-content .p1{
+	width: 40%;
+display: inline-block;
+margin-left: 3%;
+
+}
+.top-content .p2{
+	width: 40%;
+	display: inline-block;
+	margin: 3%
+}
+
+.bottom-content{
+	display: inline-block;
+	width: 100%;
+}
+
+.bottom-content .b1 {
+	display: inline-block;
+	width: 30%;
+	margin-left: 3%;
+}
+
+.bottom-content .b2{
+	display: inline-block;
+	width: 30%;
+	margin: 3%
+}
+
+.bottom-content .b3 {
+	display: inline-block;
+	width: 30%
+}
+
+.contact{
+	width: 30%;
+	margin-top: 10%;
+	line-height: 2;
+
+}
+
+hr{
+	margin-top: 3%;
+
+}
+
+footer{
+	width: 100%;
+	text-align: center;
+	margin: 10%;
+
 }
