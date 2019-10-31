@@ -64,3 +64,21 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+.head{
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0px 0px 20px 0px;
+}
+
+nav a {
+	color:grey;
+	font-size: 12px;
+	margin: 20px;
+	}
+ 
+.slogan{
+	font-size: 30px
+}
